@@ -1,0 +1,6 @@
+info:
+  name: create 4
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/fraud-v1/4

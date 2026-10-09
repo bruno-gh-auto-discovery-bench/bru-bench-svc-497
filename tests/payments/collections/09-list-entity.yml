@@ -1,0 +1,6 @@
+info:
+  name: list 9
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/fraud-collections-6/9

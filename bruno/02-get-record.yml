@@ -1,0 +1,6 @@
+info:
+  name: get 2
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/fraud-bruno-5/2
